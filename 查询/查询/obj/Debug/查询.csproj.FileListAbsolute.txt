@@ -1,0 +1,22 @@
+c:\users\西瓜泡面\documents\visual studio 2013\Projects\查询\查询\bin\Debug\查询.exe.config
+c:\users\西瓜泡面\documents\visual studio 2013\Projects\查询\查询\bin\Debug\查询.exe
+c:\users\西瓜泡面\documents\visual studio 2013\Projects\查询\查询\bin\Debug\查询.pdb
+c:\users\西瓜泡面\documents\visual studio 2013\Projects\查询\查询\obj\Debug\查询.csprojResolveAssemblyReference.cache
+c:\users\西瓜泡面\documents\visual studio 2013\Projects\查询\查询\obj\Debug\查询.Form1.resources
+c:\users\西瓜泡面\documents\visual studio 2013\Projects\查询\查询\obj\Debug\查询.Properties.Resources.resources
+c:\users\西瓜泡面\documents\visual studio 2013\Projects\查询\查询\obj\Debug\查询.csproj.GenerateResource.Cache
+c:\users\西瓜泡面\documents\visual studio 2013\Projects\查询\查询\obj\Debug\查询.exe
+c:\users\西瓜泡面\documents\visual studio 2013\Projects\查询\查询\obj\Debug\查询.pdb
+c:\users\西瓜泡面\documents\visual studio 2013\Projects\查询\查询\obj\Debug\查询.查询成员.resources
+c:\users\西瓜泡面\documents\visual studio 2013\Projects\查询\查询\obj\Debug\查询.查询族谱.resources
+C:\Users\西瓜泡面\Desktop\VS\查询\查询\bin\Debug\查询.exe.config
+C:\Users\西瓜泡面\Desktop\VS\查询\查询\obj\Debug\查询.exe
+C:\Users\西瓜泡面\Desktop\VS\查询\查询\obj\Debug\查询.pdb
+C:\Users\西瓜泡面\Desktop\VS\查询\查询\bin\Debug\查询.exe
+C:\Users\西瓜泡面\Desktop\VS\查询\查询\bin\Debug\查询.pdb
+C:\Users\西瓜泡面\Desktop\VS\查询\查询\obj\Debug\查询.csprojResolveAssemblyReference.cache
+C:\Users\西瓜泡面\Desktop\VS\查询\查询\obj\Debug\查询.Properties.Resources.resources
+C:\Users\西瓜泡面\Desktop\VS\查询\查询\obj\Debug\查询.查询成员.resources
+C:\Users\西瓜泡面\Desktop\VS\查询\查询\obj\Debug\查询.查询族谱.resources
+C:\Users\西瓜泡面\Desktop\VS\查询\查询\obj\Debug\查询.csproj.GenerateResource.Cache
+C:\Users\西瓜泡面\Desktop\VS\查询\查询\obj\Debug\查询.MainForm.resources

@@ -1,0 +1,10 @@
+C:\Users\西瓜泡面\Desktop\VS\族谱\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\西瓜泡面\Desktop\VS\族谱\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\西瓜泡面\Desktop\VS\族谱\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\西瓜泡面\Desktop\VS\族谱\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\西瓜泡面\Desktop\VS\族谱\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\西瓜泡面\Desktop\VS\族谱\obj\Debug\成员管理.csprojResolveAssemblyReference.cache
+C:\Users\西瓜泡面\Desktop\VS\族谱\obj\Debug\WindowsFormsApplication4.成员管理.resources
+C:\Users\西瓜泡面\Desktop\VS\族谱\obj\Debug\WindowsFormsApplication4.修改成员信息.resources
+C:\Users\西瓜泡面\Desktop\VS\族谱\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\西瓜泡面\Desktop\VS\族谱\obj\Debug\成员管理.csproj.GenerateResource.Cache

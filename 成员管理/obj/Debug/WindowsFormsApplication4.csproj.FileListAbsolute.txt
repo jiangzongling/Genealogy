@@ -1,0 +1,30 @@
+c:\users\国足救世主帝皇侠传人董嘉博\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\国足救世主帝皇侠传人董嘉博\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\国足救世主帝皇侠传人董嘉博\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.成员管理.resources
+c:\users\国足救世主帝皇侠传人董嘉博\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.修改成员信息.resources
+c:\users\国足救世主帝皇侠传人董嘉博\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\国足救世主帝皇侠传人董嘉博\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\国足救世主帝皇侠传人董嘉博\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\国足救世主帝皇侠传人董嘉博\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\国足救世主帝皇侠传人董嘉博\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\国足救世主帝皇侠传人董嘉博\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\西瓜泡面\Desktop\VS\成员管理\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\西瓜泡面\Desktop\VS\成员管理\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\西瓜泡面\Desktop\VS\成员管理\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\西瓜泡面\Desktop\VS\成员管理\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\西瓜泡面\Desktop\VS\成员管理\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\西瓜泡面\Desktop\VS\成员管理\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\西瓜泡面\Desktop\VS\成员管理\obj\Debug\WindowsFormsApplication4.成员管理.resources
+C:\Users\西瓜泡面\Desktop\VS\成员管理\obj\Debug\WindowsFormsApplication4.修改成员信息.resources
+C:\Users\西瓜泡面\Desktop\VS\成员管理\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\西瓜泡面\Desktop\VS\成员管理\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\西瓜泡面\Desktop\VS\族谱\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\西瓜泡面\Desktop\VS\族谱\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\西瓜泡面\Desktop\VS\族谱\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\西瓜泡面\Desktop\VS\族谱\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\西瓜泡面\Desktop\VS\族谱\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\西瓜泡面\Desktop\VS\族谱\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\西瓜泡面\Desktop\VS\族谱\obj\Debug\WindowsFormsApplication4.成员管理.resources
+C:\Users\西瓜泡面\Desktop\VS\族谱\obj\Debug\WindowsFormsApplication4.修改成员信息.resources
+C:\Users\西瓜泡面\Desktop\VS\族谱\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\西瓜泡面\Desktop\VS\族谱\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
